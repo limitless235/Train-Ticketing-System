@@ -1,2 +1,2 @@
 # Train-Ticketing-System
-This project is about the Train-Ticket-Reservation-System which is used to view Train Schedule, search trains, Seat availability, Train timings. We can also enquire about fare of different trains. We can get information about train between two stations. We can book seats online. This provides a safe and secure seat reservation system.
+This project focuses on a Train Ticket Reservation System. It allows users to view train schedules, search for trains, check seat availability, and find train timings. Users can also check ticket fares for different trains and get details about trains running between two stations. Additionally, seats can be booked online, offering a secure and reliable reservation process.
